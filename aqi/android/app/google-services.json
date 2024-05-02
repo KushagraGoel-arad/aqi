@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698880685019",
+    "project_id": "major-project-c6fe0",
+    "storage_bucket": "major-project-c6fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698880685019:android:1f45503de87485575cedfe",
+        "android_client_info": {
+          "package_name": "com.example.aqi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGuyO5-3z0V_XLcCNTL721S_om275AboY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
